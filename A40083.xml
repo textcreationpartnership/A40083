@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfax's letter from Cornwall relating the whole business in the West with the articles at large concluded upon by His Excellencies commissioners and Sir Ralph Hoptons, and an order of both Houses for a day of thanksgiving for the same.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40083</idno>
+            <idno type="STC">Wing F171</idno>
+            <idno type="STC">ESTC R27976</idno>
+            <idno type="EEBO-CITATION">10285643</idno>
+            <idno type="OCLC">ocm 10285643</idno>
+            <idno type="VID">44828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfax's letter from Cornwall relating the whole business in the West with the articles at large concluded upon by His Excellencies commissioners and Sir Ralph Hoptons, and an order of both Houses for a day of thanksgiving for the same.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Order of both Houses for a day of thanksgiving.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Lunæ, 23 March, 1645. Ordered by the Lords assembled in Parliament, that this letter with the articles shall be forthwith printed and published. J. Brown, Cler. Parliamentorum."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44828:1"/>
+            <pb facs="tcp:44828:1"/>
+            <p>Sir <hi>Thomas Fairfax</hi>'s LETTER FROM CORNWALL, Relating the whole buſineſſe in the WEST.</p>
+            <p>WITH The ARTICLES at large, concluded upon by his Excellencies Commiſſioners and Sir <hi>Ralph Hoptons.</hi>
+            </p>
+            <p>And an Order of both Houſes for a day of Thankſgiving for the ſame.</p>
+            <p>Die Lunae, 23 March. 1645.</p>
+            <p>
+               <hi>ORdered by the Lords Aſſembled in Parliament, That this Letter with the Articles ſhall be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>J. Brown, Cler. Parliamentorum.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright,</hi> at the Kings head in the Old-baily. <hi>March</hi> 24. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:44828:2"/>
+            <pb n="1" facs="tcp:44828:2"/>
+            <head>TO THE HONOVRABLE <hi>William Lenthall,</hi> Eſquire; Speaker of the Honourable Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIRs</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hilſt I lay at Bodman for the neceſſary refreſh<g ref="char:EOLhyphen"/>ment of the Army, and to block up the paſſages from Bodman to the North and South Sea, I ſent a Summons with Propoſitions to Sir <hi>Ralph Hopton,</hi> and the Army under his command: A true Copy whereof I have here incloſed, being encouraged thereunto by ſome of the enemies Officers and Souldiers, who came in to me, and informed of their inclineableneſſe to conditions; and hoping thereby either to bring them to ſuch tearms as ſhould be to your advantage, or would diſtract and weaken them; and withall underſtanding by the in<g ref="char:EOLhyphen"/>tercepted Letters I ſent you that an Iriſh Infantry was ready to be ſhipt for England, I thought fit to try all means which in proba<g ref="char:EOLhyphen"/>bility might break their body of Cavalry upon the place: when I had diſpatched theſe Propoſitions to the enemy, I advanced upon Monday with all the Army from Bodman towards Truro being then the enemies head-quarters, and to Treney, where I quarte<g ref="char:EOLhyphen"/>red that night: Sir <hi>Ralph Hopton</hi> ſent a Trumpeter to me with a Letter, deſiring to have Commiſſioners appointed on both ſides, to meet at Treſilian-bridge the next day with power to treat and conclude, which I aſſented to; The Treaty accordingly began, the Commiſſioners meeting about four a clocke in the afternoon, and I in the mean time advancing the quarters of the Army to Truro and St. Alan: After ſome time ſpent between the Commiſſioners this agreement was made, a copy whereof I have here alſo incloſed, and in execution thereof this day we began to disband the French
+<pb n="2" facs="tcp:44828:3"/>Brigade under Col. <hi>Lapland:</hi> Tomorrow we proceed with three other Brigades, they having nine in all, and ſhall endeavour to ſhorten this work as much as may be. Truly, Sir, this muſt needs be acknowledged for an admirabled mercy from the ſame gracious hand of providence, that hath hitherto gone along with you, that ſo conſiderable a force as this ſhould be ſo baffled, firſt at Tor<g ref="char:EOLhyphen"/>rington, and afterwards ſhould put themſelves as it were into a Net; whereby they were neceſſitated to take terms to the utter ruine of ſo great a body of Cavalry, which according to all our information, and the confeſſion of our enemies was not leſſe at the time of the Treaty then foure thouſand five thouſand horſe: The Articles of agreement will ſpeak the mercy, and needs no comment; yet I hope I may make this obſervation upon them, that thereby not only ſo great a body of Cavalry is broken, but ſo many both officers and ſouldiers diſobliged from taking armes againſt you, and this at ſuch a ſeaſon when a forraine aid ſo ready as the Earle of Glamorgans Letters ſent up formerly (and now ſent you) ſpeak at large, the timely freeing of us for other ſervices that remaine, with diſcouragement put upon the enemies gar<g ref="char:EOLhyphen"/>riſons in theſe parts, which we hope will cauſe them the more ſpeedily to come in, wee truſt will be good conſequences of this work: Its the deſire of us all, the praiſe of all may be returned to God, to whom it is only due: The reputation of this hath already produced a ſurrender of St. Maws Caſtle, wherein we found about 13 Guns and good proportion of Ammunition, which place gives you a better intereſt in Falmouth harbour then the enemy hath; for by the advantage hereof you may bring in ſhipping without hazzard, which they cannot; It hath alſo occaſioned the comming in of between 300 and 400 foot of the enemies with their arms to me, and given the Countries ſuch heart againſt them, That in Peryn (a Town formerly not very well affected) and in St. Ive they ſtand upon their guards againſt the enemy: For further particu<g ref="char:EOLhyphen"/>lars concerning this buſineſſe, I refer you to M. <hi>Peters,</hi> who ſince he came into this County (where he was borne) hath very much furthered the ſervice in the bringing of the Country in ſo freely to the protection of the Parliament, I remain</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt humble Servant</hi> Tho. Fairfax.</signed>
+            </closer>
+         </div>
+         <div type="articles">
+            <pb n="3" facs="tcp:44828:3"/>
+            <head>
+               <hi>Truro, March</hi> 14 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5.</head>
+            <p>
+               <hi>Articles of Agreement concluded betwixt Comiſſary Gen.</hi> Ireton, <hi>Col.</hi> John L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbert, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hn S. Aubin. <hi>Comiſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry Gen.</hi> Stane, <hi>Cap.</hi> Edward Herle, <hi>and</hi> Richard Deane <hi>Com<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>r of the Ordnance, Commi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners app<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inted on the be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe of his Excellercy Sir</hi> Thomas Fairfax <hi>Knight, Generall of the Par<g ref="char:EOLhyphen"/>liaments Army, on the one part: And Col.</hi> Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rles Goring <hi>Col.</hi> Marcus Trevor, <hi>Col.</hi> Thomas Panton, <hi>Col.</hi> Jordan B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vill, Mr Ri<g ref="char:EOLhyphen"/>chard Prideaux <hi>Knight, and Major</hi> Goterce<g ref="char:punc">▪</g> 
+               <hi>Commiſsion<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ap<g ref="char:EOLhyphen"/>pointed in the behalfe of the right Hon urable the Lord</hi> Hopton, <hi>Generall of his Majeſties Army, on the other part; as fol<g ref="char:EOLhyphen"/>loweth:</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> IT is concluded and agreed, That no perſon in the L. <hi>Hoptons</hi> army, not formerly by name excepted by the Parliament from pardon ſhall be ex<g ref="char:EOLhyphen"/>cluded from the priviledge of this Treaty, either as beng a Forraigner, or for having formerly ſerved the Parliament; but ſhall equally have the be<g ref="char:EOLhyphen"/>nefit of what ſhall upon this Treaty be granted to other perſons of that qua<g ref="char:EOLhyphen"/>lity that they are of in the army: and for any perſons by name excepted by the Parliament, they ſhall have preſent liberty (if they deſire it) to goe be<g ref="char:EOLhyphen"/>yond Seas, with like recommendation and equipage, as others of like quality; or if they deſire to live at bome in England<g ref="char:punc">▪</g> to make their addreſſes to the Parliament; for that, or other purpoſe, they ſhall have leave and reaſon<g ref="char:EOLhyphen"/>able time ſo to do, and the Generalls protection to live quietly, and at li<g ref="char:EOLhyphen"/>berty in any place they ſhall nominate and chuſe within the Parliaments quarters, untill they have received the Parliaments Reſolution; And if the Parliament ſhall not thinke fit to grant ſuch their deſires, they ſhall then have leave and paſses to go beyond Sea, as before, or to any of the Kings armies or gariſons, as they ſhall think fit.</p>
+            <p n="2">
+               <hi>2.</hi> That the Army and forces under the command of the Lord <hi>Hopton</hi> ſhall within ſix daies after the date hereof be wholly disbanded and diſ<g ref="char:EOLhyphen"/>charged
+<pb n="4" facs="tcp:44828:4"/>by the Lord <hi>Hopton,</hi> and the Generall Officers, Collonels, and other Officers under his command according to the ſeverall charges in man<g ref="char:EOLhyphen"/>ner hereafter expreſſed.</p>
+            <p n="3">
+               <hi>3.</hi> That all common Troopers, Corporals of Horſe, Fariers and Sadlers, that are mounted, being of or belonging to the Forces under the command of the Right Honorable the L. <hi>Hopton,</hi> ſhall bring in and deliver up their horſes, with their Bridles and Saddles, and all their arms, unto his Excellency Sir <hi>Tho. Fairfax,</hi> or unto whom he ſhal appoint to receive them, in manner, time, and place, as is hereafter expreſts Provided, that all Corporals, and ſuch Common Troopers as ſhall appeare Gentlemen of worth, and ſuch other Troopers as ſhall go beyond Sea, ſhall be allowed to keep and carry away with them their Swords.</p>
+            <p n="4">
+               <hi>4.</hi> That upon performance hereof they ſhall receive <hi>20 s.</hi> a man, or keep their Horſes, and ſhall have their Paſses to go to their homes in England, or beyond Sea with their Bag and Baggage, which they ſhal have leave to carry with them, or diſpoſe of them as they pleaſe; and thoſe to whom Swords are allowed, as before, to paſſe with their Swords.</p>
+            <p n="5">
+               <hi>5.</hi> That the Commiſſion-Officers of Horſe under the L. <hi>Hopton,</hi> for their ſeverall Troops reſpectively, ſhall cauſe the ſaid Horſes and Arms to be duely delivered in without changes, ſpoyling or imbezlement among them<g ref="char:EOLhyphen"/>ſelves, according to the effect of the firſt Article before-going.</p>
+            <p n="6">
+               <hi>6.</hi> That this being performed, all the ſaid Commiſſion-Officers of Horſe in preſent command, and all Trumpeters belonging to them, ſhall have li<g ref="char:EOLhyphen"/>berty to go away, either to their homes in England, or beyond the Seas with their Bag and Baggages: And alſo, they ſhal have ſuch number of Horſes, and Equipage as is hereafter allowed, according to their ſeverall qualities: That is to ſay,</p>
+            <p n="1">
+               <hi>I. For thoſe that ſhall chuſe to go beyond the Seas, the full number of Horſes and Fire-arms, if they have ſo many of their own,</hi>
+            </p>
+            <list>
+               <item>To Trumpeters one Horſe a piece, and their Trumpets.</item>
+               <item>To Quarter-maſters, two Horſes and one Caſe of Piſtols.</item>
+               <item>To Corners three Horſes and two caſe of Piſtols.</item>
+               <item>To Lieutenants four Horſes and three Caſe of Piſtol,</item>
+               <item>To Captains, Majors, and Lieutenants-Colonels, ſix Horſes and four Caſe of Piſtols.</item>
+               <item>To Colonels eight Horſes, and ſix Caſe of Piſtols.</item>
+               <item>To the Adjutant-Generall ſix Horſes and four Caſe of Piſtols.</item>
+               <pb n="5" facs="tcp:44828:4"/>
+               <item>To the other Adjutants of Brigades three Horſes a piece, and one Caſe of Piſtols.</item>
+               <item>To the Scout-maſter-generall ſix Horſes and two Caſe of Piſtols.</item>
+               <item>To the Quarter-maſter-generall ſix Horſes, and two Caſe of Piſtols.</item>
+               <item>To the Martial-generall four Horſes and one Caſe of Piſtols.</item>
+               <item>To the Deputy Quarter-master-generall two Horſes.</item>
+               <item>To the Deputy Scout-maſter one Horſe.</item>
+               <item>To the Major-generall twelve Horſes and ſix Caſe of Piſtols.</item>
+               <item>To the Commiſſary-generall of Horſe Proviſions th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee Horſes and a Caſe of Piſtols.</item>
+               <item>To the Commiſſary-Generall of Victuals three Horſes one Caſe of Piſtols.</item>
+               <item>To the Chirurgeon-generall three Horſes.</item>
+               <item>To Quarter-maſters of Brigades three Horſes one Caſe of Piſtols.</item>
+               <item>To Chirurgeons of Regements two Horſes.</item>
+               <item>To all theſe, except Chirurgeons, their defenſive Arms, and Swords for themſelves and their Servants; and unto every Field-Officer one Car<g ref="char:EOLhyphen"/>rabine, and Chirurgeons their Swords.</item>
+            </list>
+            <p n="2">
+               <hi>II. To thoſe that ſhall chuſe to abide in England, with the Generall Sir</hi> Thomas Fairfax <hi>his protection, and to live at home, ſhall have their proportions as followeth.</hi>
+            </p>
+            <list>
+               <item>The Trumpeters one Horſe a piece, and their Trumpets.</item>
+               <item>To Quarter-maſters one horſe a piece.</item>
+               <item>To Cornets and Lieutenants two Horſes a piece and one Caſe of Piſtols.</item>
+               <item>To Captains three Horſes a piece and one Caſe of Pistols.</item>
+               <item>To Majors four Horſes a piece and one Caſe of Piſtols.</item>
+               <item>To Lieut. Colonels five Horſes a piece, one caſe of Piſtols.</item>
+               <item>To Colonels ſix horſes a piece, and two caſe of Piſtols.</item>
+               <item>To the Major-generall ten Horſes, three caſe of Piſtols.</item>
+               <item>To the Adjutant-generall ſix Horſes, one caſe of Piſtols.</item>
+               <item>To the Adjutants of Brigades one Horſe a piece and one caſe of Piſtols.</item>
+               <item>To the Quartermaſter-generall ſix Horſes, and one caſe of Piſtols.</item>
+               <item>To the Marſhall-generall three Horſes, and one caſe of Piſtols.</item>
+               <item>To the Deputy Quartermaſter-generall two horſes.</item>
+               <item>To the Scoutmaſter-generall four Horſes and one caſe of Piſtols.</item>
+            </list>
+            <p>All theſe to have Swords for themſelves and their ſervants.</p>
+            <list>
+               <item>To the Commiſsary of Horſe Proviſion, two Horſes and a caſe of Piſtols.</item>
+               <item>To the Commiſſary of victuals two horſes and a caſe of Piſtols.</item>
+               <item>To the Deputy Scout-maſter one horſe.</item>
+               <pb n="4" facs="tcp:44828:5"/>
+               <item>To the Quartermaſters of Brigades two Horſes.</item>
+               <item>To the Chirurgion-generall two Horſes.</item>
+               <item>To Chirurgeons of Regiments one horſes.</item>
+               <item>To Chaplains two Horſes.</item>
+            </list>
+            <p>All theſe, except Chaplains, to have Swords for themſelves and their ſervants.</p>
+            <p n="7">
+               <hi>7.</hi> That the precedent Articles concerning the ſurrender of Troopers horſes, &amp;c. being performed; if any Officer in Command, that chuſeth to live at home ſhall appeare to have more horſes of his own, then what he is before allowed by the laſt precedent Article; the Commiſſioners of Sir <hi>Thomas Fairfax</hi> his part will recommend it to his Excellencies favour, That they may enjoy the benefit of ſuch horſes of their owne to the ſame number as Officers of like quality that are to goe beyond Sea.</p>
+            <p n="8">
+               <hi>8.</hi> That of the Reformadoe Officers that chuſe to live at home in Eng<g ref="char:EOLhyphen"/>land, Reformodoe Quarter Maſters ſhall have the ſame conditions as Cor<g ref="char:EOLhyphen"/>poralls in Command; Coronets and Lieutenants ſhall goe away with one horſe a peece, Captains, Majors and Lievtenant-Collonels, with two hor<g ref="char:EOLhyphen"/>ſes a peece, and Collonels with three horſes a peece, if they have ſo many of their owne, and one caſe of piſtolls; thoſe Reformadoes that deſire to goe beyond Seas to have halfe the proportion of horſes &amp; armes allowed in that caſe to Officers of the like quality in preſent Command if they have them of their owne, and all of them to goe with Swords, Bag and Baggage, or diſpoſe thereof at pleaſure.</p>
+            <p n="9">
+               <hi>9.</hi> That all Gentlemen of quality in Armes or not in Armes, hut living under the protection of the ſaid Army, ſhall have liberty either to goe to their owne houſes, or beyond the Seas, with Bag and Baggage, and Equi<g ref="char:EOLhyphen"/>page according to their ſeverall qualities, as followeth, That is to ſay:</p>
+            <list>
+               <item>A Knight with four horſes, three ſervants, one caſe of Piſtols, and their Swords.</item>
+               <item>An Eſquire with three horſes, two ſervants, one caſe of Piſtols, and their Swords.</item>
+               <item>A Gentleman with two horſes, one ſervant, one caſe of Piſtols, and their Swords.</item>
+               <item>A Gentleman of loweſt ranke with one horſe for himſelfe, and a Sword.</item>
+               <item>Schollers and Clergymen to have one horſe at the leaſt, or more according to their different degrees at the Generals diſcretion.</item>
+            </list>
+            <p n="10">
+               <hi>10.</hi> That to all thoſe who according to the effect of theſe Ar<g ref="char:EOLhyphen"/>ticles ſhall chooſe to goe beyond the Sea, paſses ſhall be granted from
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:44828:5"/>the Generall Sir <hi>Thomas Fairfax</hi> accordingly, and to thoſe who being Engliſh ſhall chooſe to live at home, paſſes for that purpoſe and protections for their liberty of their perſons, and alſo for the freedom of their eſtates from all pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder and violence of ſouldiers, and that ſuch Gentlemen or others that have conſiderable eſtates, may have the Generals Letters of recommendation to the Parlia<g ref="char:EOLhyphen"/>ment (if deſired) for their moderate compoſition.</p>
+            <p n="11">
+               <hi>XI.</hi> That after the performance of theſe Articles ſo far to diſ<g ref="char:EOLhyphen"/>banding and delivering up of what is to be delivered: All Officers and Souldiers that ſhall according to theſe Articles chuſe to go be<g ref="char:EOLhyphen"/>yond the Seas, ſhall have ſufficient quarters aſſigned them by Sir <hi>Thomas Fairfax,</hi> near convenient Ports for their tranſportation, and that they ſhall have twenty eight daies allowed to ſtay in En<g ref="char:EOLhyphen"/>gland, from the day of their ſeverall disbanding, and that the charge of quartering their horſes be diſcharged by themſelves af<g ref="char:EOLhyphen"/>ter the firſt fourteen daies for the time of their further ſtay, That the Generall will appoint men to take care that ſhipping ſhall oec provided for tranſporting the thh perſons, Armes Bag and Bag<g ref="char:EOLhyphen"/>gage, they paying the accuſtomed rates.</p>
+            <p n="12">
+               <hi>XII.</hi> That acertain number of Officers of the L. <hi>Hoptons</hi> Army not exceeding forty upon the Lord <hi>Hoptons</hi> Commiſſioners re<g ref="char:EOLhyphen"/>queſt ſhall be permitted to have paſſes for themſelves, and their ſervants horſes and neceſſaries to go to Oxford, provided that their ſervants exceed not the number of two, their horſes three, to eve<g ref="char:EOLhyphen"/>rie one reſpectively.</p>
+            <p n="13">
+               <hi>XIII.</hi> That the Lord <hi>Hopton</hi> ſhall be allowed for his own uſe all his horſes, provided they exceed not the number of forty, and Armes for himſelfe and twelve men; And that the Lord <hi>Went<g ref="char:EOLhyphen"/>worth</hi> ſhall have all his horſes, provided they exceed not five and twenty, and arms for himſelf and eight men, and places aſſigned them for conveniency of Quarters.</p>
+            <p n="14">
+               <hi>XIIII.</hi> That ſuch Engliſh men as ſhall chuſe to abide in Eng<g ref="char:EOLhyphen"/>land at their homes, and all Forraigners of the ſaid Army, ſhall ingage themſelves by promiſe in ſuch forme as is herewith agreed on, not to bear Arms any more againſt the Parliament of England nor to act any thing wilfully, prejudicial to the Parliaments affairs without firſt rendring, themſelves priſoners to the Parliament; And likewiſe all ſuch Engliſh as ſhall chuſe to go beyond Sea, ſhall
+<pb n="8" facs="tcp:44828:6"/>ingage themſelves in the like promiſe for three yeeres next inſu<g ref="char:EOLhyphen"/>ing the date hereof or otherwiſe ſhall loſe the benefit of theſe Arti<g ref="char:EOLhyphen"/>cles excepting the Lord <hi>Hopton</hi> and Lord <hi>Wentworth,</hi> and the number of Officers allowed to go to Oxford in the twelfth Article before-going, who are by the intention of theſe Articles left free from ſuch ingagement.</p>
+            <p n="15">
+               <hi>XV.</hi> That all Horſes, Arms, and furniture of warre belong<g ref="char:EOLhyphen"/>ing to, or in the hands of any perſon, of the ſaid Armie, not allowed in the precedent, or ſubſequent Articles, to be carried away ſhall be dilivered up to ſuch perſons, and at ſuch places near Truro, or Sir <hi>Thomas Fairfax</hi> his head quarters, as his Excellency ſhall ap<g ref="char:EOLhyphen"/>point, within ſix daies after the date hereof without ſpoile or imbe<g ref="char:EOLhyphen"/>zelment; At the care aſwell of the Geeneralls Officers of the ſaid Army, and all Commanders in their ſeverall charges, as by the perſons themſelves, to whom ſuch Armes or Furniture of warre doe belong, or in whoſe cuſtody they were.</p>
+            <p n="16">
+               <hi>XVI.</hi> That whoſoever ſhall after the concluſion of this Treaty, purpoſely break, ſpoile, or imbezell any of the armes horſes or fur<g ref="char:EOLhyphen"/>niture agreed and concluded to be delivered up in this Treaty, ſhall forfeit the benefit due unto him by any article in the Treaty. And if any of the ſaid army after the concluſion of this Treaty, ſhall plunder or wilfully doe any violence unto any Inhabitants of the Countrey, he ſhall give ſatisfaction unto the perſons ſo wronged, or loſe the benefit of the Treaty, and that the Commiſſioners of both parties, or any three of them, whereof one or more to be of Sir <hi>Thomas Fairfax</hi> his party, and one or more to be of the Lord <hi>Hop<g ref="char:EOLhyphen"/>tons,</hi> ſhall have power to heare and determine all ſuch caſes ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p n="17">
+               <hi>XVII.</hi> That the ſaid army and forces under the command of the Lord <hi>Hopton,</hi> from the time of the concluſion of this Treaty, untill the time of their drawing out to be disbanded as in the enſu<g ref="char:EOLhyphen"/>ing articles, ſhall bee quartered in ſuch places Weſtward from Truro as Sir <hi>Thomas Fairfax</hi> ſhall appoint, which ſhall be large enough for their accommodation, and that the Ceſſation of armes, and of all acts of hoſtility betwixt the two armies, ſhall continue unto the time of the compleat disbanding of the Lord <hi>Hoptons</hi> army.</p>
+            <p n="18">
+               <pb n="9" facs="tcp:44828:6"/>
+               <hi>XVIII.</hi> That for the disbanding of the ſaid Forces, and de<g ref="char:EOLhyphen"/>livering up of Horſes, Armes, &amp;c. in performance of the pre<g ref="char:EOLhyphen"/>cedent Articles, Every Brigade and Regiment under the Lord <hi>Hoptons</hi> command, ſhall by their reſpective Commanders he drawne out into ſuch places of Rendezvouz, within two miles of <hi>Truro,</hi> or Sir <hi>Thomas Fairfax</hi> his head-Quarters, And upon ſuch dayes as Sir <hi>Thomas Fairfax</hi> ſhall for them joyntly or ſe<g ref="char:EOLhyphen"/>verally appoint, notice of the ſame being given to his Excellen<g ref="char:EOLhyphen"/>cy in writing ſixteen houres before-hand, under the Commiſsio<g ref="char:EOLhyphen"/>ners of the Lord <hi>Hoptons</hi> part, or any of them, two or more of whom ſhall for that and other purpoſes continue at Sir <hi>Thomas Fairfax</hi> his head-Quarters, untill the disbanding be finiſhed, and that the Quartermaſter-generall, or Adjutant of the Lord <hi>Hop<g ref="char:EOLhyphen"/>tons</hi> with one horſeman from every Brigade, ſhall alſo be th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re with them, and that none of the ſaid Brigades or Regiments ſhall be drawn out of their Quarters, (which ſhalbe aſsigned to them as afore) otherwiſe then upon, and according to ſuch notice from Sir <hi>Thomas Fairfax</hi> as before, except to and for their ordinary Guards.</p>
+            <p n="19">
+               <hi>XIX.</hi> That to or before the drawing out of the ſeverall Bri<g ref="char:EOLhyphen"/>gades or Regiments ſuch Rendezvouz as before, the chief Com<g ref="char:EOLhyphen"/>manders of them reſpectively ſhall deliver, unto whom Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> ſhall appoint, a true and perfect Liſt of the Regi<g ref="char:EOLhyphen"/>ments and Troopes in the ſeverall Brigades, and of all Officers and Souldiers in their ſeverall Troupes, expreſsing by name which of them do chooſe to go beyond ſea, and which doe goe to live at home; or alſo who are Reformadoes, and in what degree of command they have ſerved: and that at the ſame times and places the Horſes, Armes, and furniture by vertue of the prece<g ref="char:EOLhyphen"/>dent Articles to be delivered up, ſhall be delivered up accor<g ref="char:EOLhyphen"/>dingly; and all the Officers and Souldiers disbanded and diſ<g ref="char:EOLhyphen"/>charged, and there ſhall receive their Paſſes with Warrants for quarters by the way for one night in a place, and be conve<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+               <pb n="10" facs="tcp:44828:7"/>towards their ſeverall homes, as farre as <hi>Chard,</hi> if they go ſo farre, or unto Quarters aſsigned them for their tranſportation according to the preceding Articles.</p>
+            <p>
+               <hi>That for the further performance of theſe Articles, two Colonels of each Army ſhall be mutually delivered and kept as Hoſtages.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>H. Ireton.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Lambert.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. S. Aubin.</hi>
+                     </item>
+                     <item>
+                        <hi>William Stane.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Herle.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Deane.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Goring.</hi>
+                     </item>
+                     <item>
+                        <hi>Marcus Trevor.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Panton.</hi>
+                     </item>
+                     <item>
+                        <hi>Jordan Bovill.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Prideaux.</hi>
+                     </item>
+                     <item>
+                        <hi>Jean Goteere.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <p>
+               <hi>Die Lunae,</hi> 23. <hi>Martii.</hi> 1645.</p>
+            <p>ORdered by the Lords and Commons aſſembled in Parliament, That Thurſday ſevennight be ſet apart for a day of publique Thankſgiving to Almighty God, for the great ſucceſſe of the Army under the Command of Sir <hi>Thomas Fairfax</hi> Generall, againſt the enemy in the Weſt, in breaking and deſtroying their Armies, and giving them up into the hands of the Parliament; to be obſerved and kept in all the Churches and Chappels within the Cities of London and Weſtminſter, and Liberties thereof, and Lines of Com<g ref="char:EOLhyphen"/>munication, and ten miles about, and that the Lord Mayor be deſired to take care, that the reſpective Miniſters within the Limits aforeſaid may have timely notice hereof.</p>
+            <closer>
+               <signed>Jo. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <pb facs="tcp:44828:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
